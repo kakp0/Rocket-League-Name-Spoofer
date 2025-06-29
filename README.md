@@ -1,3 +1,4 @@
+![Rocket League Name Spoofer](ReadMe Screenshot.png)
 # Requirements
 Ensure you have Python and mitmproxy correctly installed and added to your systems PATH!!
 Also make sure you have corrrectly set up an SSL certificate for mitmproxy (by visiting `http://mitm.it` once you have a proxy setup) and have installed all the required python modules (mitmproxy, json, and re) using pip
