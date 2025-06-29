@@ -13,7 +13,7 @@ Also make sure you have corrrectly set up an SSL certificate for mitm and have a
 
 
 # Help
-If you run into any issues setting this up, paste your error messages and what you've done so far into Gemini, ChatGPT, etc... They'll be able to help you a lot faster and with mroe specificity than I can. 
+If you run into any issues setting this up, paste your error messages and what you've done so far into Gemini, ChatGPT, etc... They'll be able to help you a lot faster and with more specificity than I can. 
 
 If that still dosent work feel free to message me @kakpo on discord and I'll get back to you when I can.
 
