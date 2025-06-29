@@ -16,11 +16,15 @@ Also make sure you have corrrectly set up an SSL certificate for mitmproxy (by v
 # Help
 If you run into any issues setting this up, paste your error messages and what you've done so far into Gemini, ChatGPT, etc... They'll be able to help you a lot faster and with more specificity than I can. 
 
-If that still dosent work feel free to message me @kakpo on discord and I'll get back to you when I can.
+If that still dosent work feel free to message me, @kakpo on discord. I'll get back to you when I can.
+
 Remember, have patience!! Especially if it's your first time working with proxies :D  
+
 When in doubt, just close whatever your using and open it again (Epic's Launcher in particular can be pretty unhelpful when you're first setting this up)
 
 ### **NOTE:** 
 **If you compile this into an exe and re-sell it to skids on RL cheat servers, I legally reserve the right to come to your house and beat you over the head with a heavy rock :)**
 
 Aside from that, feel free to do what you like with this, go make the RL Modding Community a better place.
+
+If enough people are interested, I'd be happy to make this into a more user friendly format. Just let me know on discord.
