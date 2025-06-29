@@ -4,7 +4,7 @@ Also make sure you have corrrectly set up an SSL certificate for mitmproxy and h
 
 # How To Run:
 1) Open RL Name Spoofer.py and *CHANGE* both the CURRENT_NAME and NEW_NAME variables to what you want!
-2) Open CMD and launch mitmproxy running the script with the command `mitmdump -s "C:\CHANGE\ME\TO\THE\FILE\PATH\OF\RL Name Spoofer.py"` 
+2) Open CMD and launch mitmproxy with the command `mitmdump -s "C:\CHANGE\ME\TO\THE\FILE\PATH\OF\RL Name Spoofer.py"` 
 **(Leave this running the entire time you are playing, as all your internet traffic flows through this proxy. So closing the proxy means essentially closing your internet connection...)**
 3) Press "Windows+i" to open your internet settings
 4) Under "Manual proxy setup" select "Edit" for "Use a proxy server"
