@@ -1,6 +1,6 @@
 # Requirements
 Ensure you have Python and mitmproxy correctly installed and added to your systems PATH!!
-Also make sure you have corrrectly set up an SSL certificate for mitm and have all installed all the required modules (mitmproxy, json, and re) using pip
+Also make sure you have corrrectly set up an SSL certificate for mitmproxy and have installed all the required python modules (mitmproxy, json, and re) using pip
 
 # How To Run:
 1) Open RL Name Spoofer.py and *CHANGE* both the CURRENT_NAME and NEW_NAME variables to what you want!
