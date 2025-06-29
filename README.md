@@ -11,7 +11,7 @@ Also make sure you have corrrectly set up an SSL certificate for mitm and have a
 5) Set the Proxy IP address to `127.0.0.1` and the port to `8080` (This will route all your traffic through mitmproxy)
 6) Press "Save"
 7) Open Rocket League and enjoy B)
-**8) When you're done, turn off the proxy you set up in steps 3-6. You can now safely close mitmproxy (in CMD)**
+8) **When you're done, turn off the proxy you set up in steps 3-6. You can now safely close mitmproxy (in CMD)**
 
 # Help
 If you run into any issues setting this up, paste your error messages and what you've done so far into Gemini, ChatGPT, etc... They'll be able to help you a lot faster and with more specificity than I can. 
