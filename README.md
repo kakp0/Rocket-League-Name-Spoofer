@@ -1,5 +1,5 @@
 # Rocket League Epic Games Name Spoofer
-![Rocket League Name Spoofer](readme-screenshot.png)
+![Rocket League Name Spoofer](readme-screenshotworking.png)
 
 # Requirements
 Ensure you have Python and mitmproxy correctly installed and added to your systems PATH!!
