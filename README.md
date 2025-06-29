@@ -20,6 +20,7 @@ If that still dosent work feel free to message me @kakpo on discord and I'll get
 Remember, have patience!! Especially if it's your first time working with proxies :D  
 When in doubt, just close whatever your using and open it again (Epic's Launcher in particular can be pretty unhelpful when you're first setting this up)
 
-
 ### **NOTE:** 
 **If you compile this into an exe and re-sell it to skids on RL cheat servers, I legally reserve the right to come to your house and beat you over the head with a heavy rock :)**
+
+Aside from that, feel free to do what you like with this, go make the RL Modding Community a better place.
