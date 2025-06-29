@@ -21,4 +21,4 @@ Remember, have patience!! Especially if it's your first time working with proxie
 When in doubt, just close whatever your using and open it again (Epic's Launcher in particular can be pretty unhelpful when you're first setting this up)
 
 
-###**NOTE: If you compile this into an exe and re-sell it to skids on RL cheat servers, I legally reserve the right to come to your house and beat you over the head with a heavy rock :)**
+### **NOTE: If you compile this into an exe and re-sell it to skids on RL cheat servers, I legally reserve the right to come to your house and beat you over the head with a heavy rock :)**
