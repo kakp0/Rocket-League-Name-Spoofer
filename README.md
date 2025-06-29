@@ -17,4 +17,4 @@ If you run into any issues setting this up, paste your error messages and what y
 
 If that still dosent work feel free to message me @kakpo on discord and I'll get back to you when I can.
 
-NOTE: If you compile this into an exe and re-sell it to skids on RL cheat servers, I legally reserve the right to come to your house and beat you over the head with a heavy rock :)
+**NOTE: If you compile this into an exe and re-sell it to skids on RL cheat servers, I legally reserve the right to come to your house and beat you over the head with a heavy rock :)**
