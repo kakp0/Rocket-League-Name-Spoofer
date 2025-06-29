@@ -12,4 +12,9 @@ Also make sure you have corrrectly set up an SSL certificate for mitm and have a
 6) Open Rocket League and enjoy B)
 
 
+# Help
+If you run into any issues setting this up, paste your error messages and what you've done so far into Gemini, ChatGPT, etc... They'll be able to help you a lot faster and with mroe specificity than I can. 
 
+If that still dosent work feel free to message me @kakpo on discord and I'll get back to you when I can.
+
+NOTE: If you compile this into an exe and re-sell it to skids on RL cheat servers, I legally reserve the right to come to your house and beat you over the head with a heavy rock :)
